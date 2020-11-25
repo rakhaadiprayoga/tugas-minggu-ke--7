@@ -1,0 +1,2 @@
+<h1>kontak</h1>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat reiciendis voluptatibus exercitationem illum dolorem, molestiae maxime magni harum sed non cupiditate maiores explicabo ut corporis accusantium soluta quis nesciunt distinctio.</p>
